@@ -1,0 +1,44 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+p.heading1{
+  color: #391a53;
+  text-align: center;
+  font-size: 30px;
+}
+p.heading2{
+  color: #391a53;
+  text-align: center;
+  font-size: 25px;
+}
+p.lore{
+  text-align: center;
+  font-size: 15px;
+}
+p.yt{
+  color: #fa0505;
+  text-align: center;
+  font-size: 20px;
+}
+p.disc{
+  color: #5662f6;
+  text-align: center;
+  font-size: 20px;
+}
+p.twitch{
+  color: #9147ff;
+  text-align: center;
+  font-size: 20px;
+}
+p.twitter{
+  color: #1d9bf0;
+  text-align: center;
+  font-size: 20px;
+}
+p.FB{
+  color: #007ddb;
+  text-align: center;
+  font-size: 20px;
+}
